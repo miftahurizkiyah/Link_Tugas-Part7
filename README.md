@@ -7,7 +7,11 @@ Repository ini dibuat untuk menampilkan 3 Link Repository pada tugas pertemuan k
 
 ***Kelas : TI.20.B.1***
 
-Berikut Link Repository untuk Tugas Bahasa Pemrograman =>
+***Dosen : Agung Nugroho,S.Kom.,M.Kom***
+
+<br>
+
+Berikut Link Repository untuk Tugas Bahasa Pemrograman : <br>
 
 1. Untuk tugas Pertemuan 7 pada halaman Lab 3, bisa dilihat pada link berikut :
  [[Click Here!]](https://github.com/miftahurizkiyah/Pertemuan7_lab3)
@@ -17,3 +21,8 @@ Berikut Link Repository untuk Tugas Bahasa Pemrograman =>
 
 3. Untuk tugas Pertemuan 7 pada halaman Modul 3 bisa dilihat pada link berikut : 
  [[Click Here!]](https://github.com/miftahurizkiyah/labpy03)
+ 
+ <br>
+
+========== ***THANK YOU*** ==========
+
