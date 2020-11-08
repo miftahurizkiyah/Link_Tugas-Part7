@@ -10,7 +10,7 @@ Repository ini dibuat untuk menampilkan 3 Link Repository pada tugas pertemuan k
 Berikut Link Repository untuk Tugas Bahasa Pemrograman =>
 
 1. Untuk tugas Pertemuan 7 pada halaman Lab 3, bisa dilihat pada link berikut :
- [link_Part7_lab3](https://github.com/miftahurizkiyah/Pertemuan7_lab3)
+ [Click Here](https://github.com/miftahurizkiyah/Pertemuan7_lab3)
 
 2. Untuk tugas Pertemuan 7 pada halaman Modul 2 bisa dilihat pada link berikut :
  [link_Modul2](https://github.com/miftahurizkiyah/TPart_7_Labspy02)
