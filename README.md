@@ -13,7 +13,7 @@ Berikut Link Repository untuk Tugas Bahasa Pemrograman =>
  [Click Here](https://github.com/miftahurizkiyah/Pertemuan7_lab3)
 
 2. Untuk tugas Pertemuan 7 pada halaman Modul 2 bisa dilihat pada link berikut :
- [link_Modul2](https://github.com/miftahurizkiyah/TPart_7_Labspy02)
+ [Click Here](https://github.com/miftahurizkiyah/TPart_7_Labspy02)
 
 3. Untuk tugas Pertemuan 7 pada halaman Modul 3 bisa dilihat pada link berikut : 
- [link_Modul3](https://github.com/miftahurizkiyah/labpy03)
+ [Click Here](https://github.com/miftahurizkiyah/labpy03)
